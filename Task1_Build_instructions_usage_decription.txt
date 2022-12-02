@@ -1,0 +1,15 @@
+Build Instructions:
+cd to the directory containing the source code
+type ./filename.sh    (in our case type ./Task1.sh)
+
+Usage:
+This script can be used to generate random number between 1 to 10 without repeating any number. In real life this van be used for various departments for giving receipts.
+
+
+Description:
+The script is written in bash . It has the executable permission. 
+It It can generate random numbers between 1 to 10.
+
+
+Known Limitations/bugs:
+Not able to use shuf command.
